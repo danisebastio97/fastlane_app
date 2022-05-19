@@ -1,5 +1,7 @@
 {
-  "name": "FastlaneApp",
-  "integrations": {},
+  "name": "com.lynxspa.fastlane_demo",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

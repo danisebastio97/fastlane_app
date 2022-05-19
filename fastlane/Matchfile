@@ -1,0 +1,16 @@
+git_url("https://github.com/danisebastio97/certificates_fastlane.git")
+
+storage_mode("git")
+
+type("development") # The default type, can be: appstore, adhoc, enterprise or development
+
+app_identifier("com.lynxspa.fastlane_demo")
+username("nicolo.brognoli@lynxspa.com") # Your Apple Developer Portal username
+readonly(true) 
+team_id("34LRA54882")
+team_name("Lynx S.p.A.")
+
+# For all available options run `fastlane match --help`
+# Remove the # in the beginning of the line to enable the other options
+
+# The docs are available on https://docs.fastlane.tools/actions/match

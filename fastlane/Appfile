@@ -1,0 +1,6 @@
+app_identifier("com.lynxspa.fastlane_demo") # The bundle identifier of your app
+apple_id("nicolo.brognoli@lynxspa.com") # Your Apple email address
+package_name("com.lynxspa.fastlane_app") # e.g. com.krausefx.app
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
