@@ -6,7 +6,6 @@ type("development") # The default type, can be: appstore, adhoc, enterprise or d
 
 app_identifier("com.lynxspa.fastlane_demo")
 username("nicolo.brognoli@lynxspa.com") # Your Apple Developer Portal username
-readonly(true) 
 team_id("34LRA54882")
 team_name("Lynx S.p.A.")
 
