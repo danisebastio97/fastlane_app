@@ -9,6 +9,8 @@ username("nicolo.brognoli@lynxspa.com") # Your Apple Developer Portal username
 readonly(true) 
 team_id("34LRA54882")
 team_name("Lynx S.p.A.")
+keychain_name("fastlane-db.keychain")
+keychain_password("LynxSpa97")
 
 # For all available options run `fastlane match --help`
 # Remove the # in the beginning of the line to enable the other options
