@@ -1,5 +1,5 @@
 {
-  "name": "com.lynxspa.fastlane_demo_development",
+  "name": "com.lynxspa.fastlane_demo",
   "integrations": {
     "cordova": {}
   },
