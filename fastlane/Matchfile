@@ -4,7 +4,7 @@ storage_mode("git")
 
 type("development") # The default type, can be: appstore, adhoc, enterprise or development
 
-app_identifier("com.lynxspa.fastlane_demo")
+app_identifier("com.lynxspa.fastlane_demo_development")
 username("nicolo.brognoli@lynxspa.com") # Your Apple Developer Portal username
 readonly(true) 
 team_id("34LRA54882")
